@@ -27,19 +27,20 @@ section {
   margin-top: 1vh;
   height: fit-content;
   text-align: center;
-  border: 3px solid #aaa;
+  border: 3px solid rgb(170, 170, 170);
   border-radius: 1rem;
   width: fit-content;
 }
 
 input {
   border-radius: 0.4rem;
-  border: 1px solid #aaa;
+  border: 1px solid rgb(170, 170, 170);
   height: 2.2rem;
   width: 100%;
   padding-left: 1rem;
   font-size: 1.8rem;
   background: transparent;
+  color: #fff;
 }
 
 .search {
@@ -61,7 +62,7 @@ input {
   background-color: rgb(11, 20, 20);
   padding: 0.6rem 0;
   font-size: 1rem;
-  color: white;
+  color: rgb(255, 255, 255);
   cursor: pointer;
   border-radius: 0.5rem;
 }
@@ -107,7 +108,7 @@ img {
   width: 60%;
   font-size: 1rem;
   background-color: rgb(11, 20, 20);
-  color: white;
+  color: rgb(255, 255, 255);
   border-radius: 0.5rem;
   margin: 1.5rem;
 }

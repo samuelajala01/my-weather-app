@@ -1,0 +1,16 @@
+{
+  "location": {
+    "name": "London",
+    "country": "England",
+    "localtime": "18:00"
+  },
+  "current": {
+    "condition": {
+      "text": "Cloudy",
+      "icon": "./img/png"
+    },
+    "humidity": 68,
+    "wind_kph": "18",
+    "temp_c": 28
+  }
+}
