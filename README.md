@@ -1,6 +1,7 @@
 # my-weather-app
 
-![Screenshot (31)](https://user-images.githubusercontent.com/66500541/148305556-a668aabb-b3a2-4c3d-b105-5f3240b9f710.png)
+![Screenshot (100)](https://user-images.githubusercontent.com/66500541/170798453-47cc6302-f26b-4876-8aaf-6a83bb7220bd.png)
+
 
 ### A weather that shows real-time local and weather info. 
 
