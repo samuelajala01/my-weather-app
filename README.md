@@ -5,5 +5,9 @@
 
 ### A weather that shows real-time local and weather info. 
 
+
+## Built with:
+HTML, CSS, Vanilla JS and weather API
+
 ## Live Site:
 https://xamy-weather-app.netlify.app
